@@ -1,5 +1,10 @@
 # Voting Dapp on Stellar Blockchain
 
+### Submitted by :
+Suraj Yadav
+Akshay Shukla
+Yash Gupta
+
 ## Project Description
 
 Our project aims to develop a decentralized application (Dapp) for conducting secure and transparent voting processes using the Stellar blockchain. This Dapp will enable users to cast their votes securely from anywhere, ensuring integrity and eliminating the risk of manipulation. 
